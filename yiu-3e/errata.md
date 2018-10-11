@@ -1,4 +1,4 @@
-## Errata for "The Definitive Guide to ARM Cortext-M3 and blabla", Liu/3e
+## Errata for "The Definitive Guide to ARM Cortext-M3 and blabla", Joseph Yiu/3e
 Please keep the rows in ascending page order, to facilitate fast lookup.
 
 | Page | Context       | Correction    | Submitter | Date       |
