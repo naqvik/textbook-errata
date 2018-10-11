@@ -10,8 +10,9 @@ Currently the books covered here include:
 Here's how to view or update errata:
 
 1. Go to the document for the appropriate textbook.  View the table and note the errata.
-2. If you want to add a _new entry_ in the table, go into edit mode, filling in the appropriate values in each column.  Please insert the new entry so that the page numbers stay in ascending order.  Use the existing entries as a guide.
+2. If you want to add a _new entry_ in the table, contact me with the following information:
+ * What the error is, and the page number
+ * Explain how to fix the error
 
-   If you are a student currently registered in my class, and you find a previously undiscovered error in one of these textbooks, you can do the following:
-  1. Explain to me what the error is, and how to fix it
-  2. Claim your prize: a book from my library.  I have a lot of technical books and texts, and I'm trying to winnow down this collection, as well as giving my extra books a good home.
+If you are a student currently registered in my class, and you find a previously undiscovered error in one of these textbooks, you can also:
+  * Claim your prize: a book from my library.  I have a lot of technical books and texts, and I'm trying to winnow down this collection, as well as giving my extra books a good home.
