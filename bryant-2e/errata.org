@@ -1,10 +1,10 @@
 **   Errata for "Computer Systems: A Programmer's Perspective", Bryant and O'Hallaron/2e
    - Please keep the rows in ascending page order, to facilitate fast lookup.
    - The official list of errata for the 2nd edition (including the
-     one on p234 described below) Ppcan be found here:
+     one on p234 described below) can be found here:
      http://csapp.cs.cmu.edu/2e/errata.html
 
 | Page | Context                                         | Correction                                  | Submitter      |       Date |
 |------+-------------------------------------------------+---------------------------------------------+----------------+------------|
-|  234 | Table of array expressions, line 6, Type column | The type should be 'int' instead of 'int *' | Clark Inocalla | 2018-12-11 |
+|  234 | Table of array expressions, line 6, *Type* column | The type should be =int= instead of =int *= | Clark Inocalla | 2018-12-11 |
 
